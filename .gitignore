@@ -1,0 +1,6 @@
+# Ignore air.toml configuration file
+.air.toml
+
+# Ignore .env file containing environment variables
+.env
+
